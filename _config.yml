@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Safet Hayrula"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Safet Hayrula"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://safeth25.github.io/hayrulablog.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Safet Hayrula"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Stuttgart, Germany"
+  employer         : "University of Stuttgart"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "st178656@stud.uni-stuttgart.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
